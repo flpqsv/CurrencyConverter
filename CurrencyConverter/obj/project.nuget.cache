@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X1SnnVTphmLbDfzMm/OFeDbd4NaBoRB0/1rtOwU0M5rfLdBydwAS4szKea/VuLC9iH4Dfj9CSjy9VKm12dXfgQ==",
+  "success": true,
+  "projectFilePath": "/Users/Mabelle/Desktop/Currency Converter/CurrencyConverter/CurrencyConverter.csproj",
+  "expectedPackageFiles": [
+    "/Users/Mabelle/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/Mabelle/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/Mabelle/.nuget/packages/nunit/3.12.0/nunit.3.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

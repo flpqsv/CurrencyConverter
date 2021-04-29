@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ef848ff6_002D4b0f_002D424c_002Da300_002Dfc58bf3da9af/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CurrencyTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::167953F8-6E9D-4217-8CC6-803D47E66E4E::.NETCoreApp,Version=v3.1::CurrencyConverter.Tests.CurrencyTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::167953F8-6E9D-4217-8CC6-803D47E66E4E::.NETCoreApp,Version=v3.1::CurrencyConverter.Tests.ConverterTests.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::167953F8-6E9D-4217-8CC6-803D47E66E4E::.NETCoreApp,Version=v3.1::CurrencyConverter.Tests.ConverterTests&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::167953F8-6E9D-4217-8CC6-803D47E66E4E::.NETCoreApp,Version=v3.1::CurrencyConverter.Tests.ProgramTests.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9A7694AD-6C4A-455D-9933-71187C93D3B5::.NETCoreApp,Version=v3.1::CurrencyConverter.Tests.xUnit1.ProgramTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9A7694AD-6C4A-455D-9933-71187C93D3B5::.NETCoreApp,Version=v3.1::CurrencyConverter.Tests.xUnit1.ConverterTests.TryGetSum&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::9A7694AD-6C4A-455D-9933-71187C93D3B5::.NETCoreApp,Version=v3.1::CurrencyConverter.Tests.xUnit1.CurrencyTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9A7694AD-6C4A-455D-9933-71187C93D3B5::.NETCoreApp,Version=v3.1::CurrencyConverter.Tests.xUnit1.CurrencyTests.TryWrongCurrency&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

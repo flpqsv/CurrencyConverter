@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyConverter", "CurrencyConverter\CurrencyConverter.csproj", "{764A2AAF-E398-4B8F-8EBD-5C278DD07B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyConverter.Tests", "CurrencyConverter.Tests\CurrencyConverter.Tests.csproj", "{167953F8-6E9D-4217-8CC6-803D47E66E4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyConverter.Tests.xUnit1", "CurrencyConverter.Tests.xUnit1\CurrencyConverter.Tests.xUnit1.csproj", "{9A7694AD-6C4A-455D-9933-71187C93D3B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{764A2AAF-E398-4B8F-8EBD-5C278DD07B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764A2AAF-E398-4B8F-8EBD-5C278DD07B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764A2AAF-E398-4B8F-8EBD-5C278DD07B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764A2AAF-E398-4B8F-8EBD-5C278DD07B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167953F8-6E9D-4217-8CC6-803D47E66E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167953F8-6E9D-4217-8CC6-803D47E66E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167953F8-6E9D-4217-8CC6-803D47E66E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167953F8-6E9D-4217-8CC6-803D47E66E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7694AD-6C4A-455D-9933-71187C93D3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7694AD-6C4A-455D-9933-71187C93D3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7694AD-6C4A-455D-9933-71187C93D3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7694AD-6C4A-455D-9933-71187C93D3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
